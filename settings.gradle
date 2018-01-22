@@ -1,1 +1,1 @@
-include ':app', ':musicspeedchangelib'
+include ':app', ':musicspeedchangelib',':library-exo', ':library-presto', ':library-exolib'
