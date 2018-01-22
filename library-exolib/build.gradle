@@ -14,6 +14,10 @@
 import com.android.builder.core.BuilderConstants
 
 apply plugin: 'com.android.library'
+// JitPack Maven
+apply plugin: 'com.github.dcendents.android-maven'
+// Your Group
+group='com.github.geogie'
 
 android {
     compileSdkVersion 24
